@@ -1,0 +1,28 @@
+npm init --yes
+
+
+
+🎉 Finish
+🚚 Work in
+➕ Add
+✨ Add
+🔨 Refactor code
+🐛 Fix bugs
+🔨 Refactor code - 🐛 Fix bugs
+✏️	Rename / move a file(s) / folder(s)
+✏️	Move files
+✏️	Move folder
+
+/////
+
+npm i graphql graphql-tools apollo-server-express @nestjs/graphql
+npm i @nestjs/graphql @nestjs/apollo @apollo/server graphql
+
+npm install graphql graphql-tools apollo-server-express @nestjs/graphql @nestjs/apollo @apollo/server
+
+npm i typeorm @nestjs/typeorm mongodb @types/mongodb
+
+npm i uuid
+
+npm i class-validator class-transformer
+
